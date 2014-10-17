@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xsr:home|Door43 (xsr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xsr|d43-xsr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xsr/archive/master.zip|d43-xsr.zip]]
+
+**Recent Changes**
+{{changes>ns = xsr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xsr|Ethnologue data]]
+
